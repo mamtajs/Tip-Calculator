@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] UI beautification and icon addition.
-- [x] Tip calculator remembers user settings of tip calculation percent for future use.
+- [x] Slider addition for more customized tip percent settings.
+- [x] Remember user settings of tip percent for future use.
 
 ## Video Walkthrough
 
