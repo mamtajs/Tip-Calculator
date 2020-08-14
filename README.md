@@ -4,7 +4,7 @@
 
 Submitted by: **Mamta Shah**
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
@@ -22,13 +22,17 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] UI beautification and icon addition.
+- [x] Tip calculator remembers user settings of tip calculation percent for future use.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
+<img src='https://i.imgur.com/bAhYhNG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 <img src='https://i.imgur.com/wfJcnnF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
